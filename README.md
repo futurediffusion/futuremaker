@@ -1,6 +1,6 @@
 # Stable Diffusion Webui, ReForge, ComfyUI Y A1111<br />para Google Colab
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpantat88%2Fsegsmaker"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpantat88%2futuremaker&countColor=%232ccce4"/></a><br>
-<a href="paypal.me/willyzen6"><img alt="paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=black"/></a>
+<a href="https://paypal.me/willyzen6?country.x=PE&locale.x=es_XC"><img alt="paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=black"/></a>
 <a href="https://ko-fi.com/futurediffusion"><img alt="ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=black"/></a>
 <a href="https://discord.gg/aauJSSTUNR"><img alt="Discord" src="https://img.shields.io/badge/Discrod-5865F2?style=for-the-badge&logo=discord&logoColor=black"/></a><br>
 
