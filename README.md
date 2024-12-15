@@ -132,3 +132,4 @@ Usage:
   <img src="https://github.com/gutris1/segsmaker/blob/main/script/preview/fastpnginfo.png", widht=1000px>
   <img src="https://github.com/gutris1/segsmaker/blob/main/script/preview/cn.png", widht=1000px>
 </p>
+"# futuremaker" 
